@@ -7,7 +7,7 @@
         http://www.fujion.org/schema/fsp.xsd">
         
     <page title="project2"> 
-        	<label label="Welcome to CareWeb!"/>
+        	<label label="Welcome to devops chandu!"/>
     </page>
     
 </fsp>
